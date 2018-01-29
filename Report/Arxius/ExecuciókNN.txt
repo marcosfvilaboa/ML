@@ -1,0 +1,63 @@
+KNN SIMPLE
+===================
+
+Prediccions: 
+ ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+Valors Actuals: 
+ ['0', '0', '0', '1', '1', '1', '0', '0', '1', '1']
+Número d'encerts:  5
+
+La precisió és d'un 50.0%
+
+CONFUSION MATRIX
+===================
+ACTUAL                   [    ,0] [   ,1]    ALL  
+PREDICTED                                         
+[0,     ]                      5      0       5  
+[1,     ]                      5      0       5  
+ALL                           10      0       10  
+
+El procés ha durat 8.77 segons
+
+
+
+KNN PONDERAT
+===================
+Pes:  3.453871
+Valor de confiança: 0.163796
+Pes:  3.647142
+Valor de confiança: 0.168635
+Pes:  3.286177
+Valor de confiança: 0.158755
+Pes:  3.684848
+Valor de confiança: 0.162707
+Pes:  3.426186
+Valor de confiança: 0.161789
+Pes:  3.689499
+Valor de confiança: 0.169909
+Pes:  3.680793
+Valor de confiança: 0.168954
+Pes:  3.381577
+Valor de confiança: 0.160478
+Pes:  3.422776
+Valor de confiança: 0.157527
+Pes:  3.564807
+Valor de confiança: 0.169000
+
+Prediccions: 
+ ['0', '0', '1', '1', '1', '0', '0', '1', '1', '1']
+Valors Actuals: 
+ ['0', '0', '0', '1', '1', '1', '0', '0', '1', '1']
+Número d'encerts:  6
+
+La precisió és d'un 60.0%
+
+CONFUSION MATRIX
+===================
+ACTUAL                   [    ,0] [   ,1]    ALL  
+PREDICTED                                         
+[0,     ]                      3      2       5  
+[1,     ]                      1      4       5  
+ALL                           4      6       10  
+
+El procés ha durat 8.85 segons
