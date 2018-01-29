@@ -29,6 +29,8 @@ class CsvArchive:
     
     # Reads archive 
     # print and count archive rows
+    #
+    # Actually def UNUSED
     def printCSV (self,filePath):
         self.fileObj  = open(filePath, "r")
         reader = csv.reader(self.fileObj)
@@ -38,5 +40,5 @@ class CsvArchive:
             print(row)
             rowNum += 1
         self.fileObj.close()
-        print("L'arxiu conté ",rowNum, " files")
+        print("The file contains ",rowNum, " rows")
     
