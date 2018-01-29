@@ -4,8 +4,8 @@
 
 
 #Some improves could be:
-#       Implement other classifiers
-#       Apply normalitation to data (right now are pre-normalized)
-#       More efficiency in calculations
+######Implement other classifiers
+######Apply normalitation to data (right now are pre-normalized)
+######More efficiency in calculations
 
 #Actual version 1.3
