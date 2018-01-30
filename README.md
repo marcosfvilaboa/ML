@@ -12,4 +12,4 @@ Some improves could be:
 
 Actual version 1.3
 
->...that's how I learn **Machine Learning and Python**
+>..._this is how I learn **Machine Learning and Python**_
