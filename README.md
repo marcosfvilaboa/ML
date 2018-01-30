@@ -1,15 +1,15 @@
-# Implementation of Machine Learning classifiers to some Data
+# Machine Learning classifiers implementation (Python)
+_________
 
-Initially created as a practice of University Degree 
+###### _Initially created as a practice of University Degree in Open University of Catalonia (UOC)_ 
 
-Actually only kNN classifier is implemented
+**_Actually only kNN classifier is implemented!!_**
 
 Some improves could be:
-
-	-Implement other classifiers
-
-	-Apply normalitation to data (right now are pre-normalized)
-
-	-More efficiency in calculations
+- Implement other classifiers
+- Apply normalitation to data (right now are pre-normalized)
+- More efficiency in calculations
 
 Actual version 1.3
+
+>...that's how I learn **Machine Learning and Python**
