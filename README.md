@@ -1,6 +1,6 @@
 # Implementation of Machine Learning classifiers to some Data
 
-Initially created as a practice to University Degree 
+Initially created as a practice of University Degree 
 
 Actually only kNN classifier is implemented
 
